@@ -15,7 +15,7 @@ console.log("My first name is", firstName, "and my last name is", lastName);
 // --------------------------------------
 // Exercise 2 - Numbers and Strings
 
-const year = "2020";
+const year = "2020121";
 const number = 1;
 
 // Add the year plus the number
